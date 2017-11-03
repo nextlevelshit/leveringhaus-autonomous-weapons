@@ -38,3 +38,8 @@ Eine autonome Waffe beinhaltet beide Konzepte einer Waffe (s.o.) und zusätzlich
 ### Waffendesign beinhaltet Leid und Schaden
 
 ## Feinberg: Was sind Leid und Schaden
+
+## Autonomiebegriff
+
+ - Mensch: "In a nutshell, the concept of autonomy denotes that an agent acts for reasons the agent has given him/herself." [S. 47]
+ - Maschine: 

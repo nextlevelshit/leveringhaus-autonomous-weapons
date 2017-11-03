@@ -10,15 +10,31 @@
   lang: de
 ...
 
-# Das ist der Anfang
+# Exzerpt
 
-## Zweite Überschrift
+## Was ist eine Waffe?
 
-*Kursiv* **Fett**
+Eine Waffe beinhaltet zwei Konzepte:
 
-- Aufzählung
-  - Weitere Aufzählung
+1. Konzept des Designs (*Intention, Zweck, Plan*)
+2. Konzept des Schadens (*inflcting harm*)
 
-1. Numerische Aufzählung
-2. Weitere Aufzählung
-   1. Testy
+## Was macht eine autonome Waffe aus?
+
+Eine autonome Waffe beinhaltet beide Konzepte einer Waffe (s.o.) und zusätzlich den Charakter einer *autonomen Maschine*. Eine autonome Maschine wiederum ...
+
+## Wichtigkeit des Designs
+
+### Abgrenzung zu anderen Artefakten
+
+- Schere
+- Nicht alle militärischen Artefakte sind per se Waffen
+- Unterstützungssysteme (*support systems*) z.B. Radare als Abgrenzung zu Waffensystemen (???)
+- Moralische Dimension bei der Entwicklung von Unterstützungsystemen
+  - Gutes tun, Böses ablehnen
+
+### Doctrine of Double Effect
+
+### Waffendesign beinhaltet Leid und Schaden
+
+## Feinberg: Was sind Leid und Schaden

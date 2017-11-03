@@ -20,5 +20,5 @@
   - Weitere Aufzählung
 
 1. Numerische Aufzählung
-2. Weitere Aufzähling
-  1. Testy
+2. Weitere Aufzählung
+   1. Testy

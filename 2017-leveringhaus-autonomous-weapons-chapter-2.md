@@ -1,6 +1,6 @@
-% Leveringhaus: Autonomouse Weapons - Chapter 2
-% Alexandra Hass | Michael Czechowski
-% Seminar: Prof. Dr. Catrin Misslhorn - Kriegsroboter, Dronen und co. (WiSe 2017/18)
+% Leveringhaus: Ethics and Autonomous Weapons - Chapter 2
+% Alexandra Haas | Michael Czechowski
+% Seminar: Prof. Dr. Catrin Misslhorn - Kriegsroboter, Drohnen und Co. - Zur Ethik autonomer Waffensysteme (WiSe 2017/18)
 ---
   papersize: a4paper
   geometry: left=4cm
@@ -11,3 +11,14 @@
 ...
 
 # Das ist der Anfang
+
+## Zweite Überschrift
+
+*Kursiv* **Fett**
+
+- Aufzählung
+  - Weitere Aufzählung
+
+1. Numerische Aufzählung
+2. Weitere Aufzähling
+  1. Testy

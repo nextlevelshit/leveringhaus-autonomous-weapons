@@ -18,7 +18,7 @@
 - Im Design einer Waffe liegt die Intention Schaden oder Verletzungen anzurichten. 
   *Eine nicht verletzende Waffe ist ein Wiederspruch in sich.*
 
-### Problem der militärischen „Support-Systems“ und die Möglichkeit moralischer Rechtfertigung in Bezug auf die "Doctine of Double-Effect":
+### Problem der militärischen „Support-Systems“ und die Möglichkeit moralischer Rechtfertigung in Bezug auf die "Doctrine of Double-Effect":
 
 - Die Doktrin besagt, dass es konzeptuell und normativ notwendig ist, zwischen dem zu unterscheiden, was ein Akteur beabsichtigt und was ein Akteur vorhersieht.
 - Annahme der Waffenbefürworter: Die primäre Intention von Radarsystemen liegt nicht darin Schaden anzurichten, kann aber durch einen Nebeneffekt zu Schaden führen. Bsp.: Man wollte das Land beschützen und konnte nicht wirklich vorhersehen, dass dabei Unmengen von Zivilisten getötet wurden. 
@@ -30,7 +30,7 @@ Sein Gegenargument basiert auf der primären Komponente beim Design einer Waffe,
 
 ## Verletzung und Schaden als zetrales Element
 
-### Leveringhaus‘ Definition von Schädigung/Verletzung richtet sich nach Joel Feinberg.
+### Leveringhaus‘ Definition von Schädigung/Verletzung richtet sich nach Joel Feinberg:
 
 Schaden oder Verletzung im unmoralischen Sinn wird über zwei Komponenten definiert: 
 

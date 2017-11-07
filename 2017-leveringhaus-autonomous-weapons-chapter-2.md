@@ -22,7 +22,6 @@
 
 - Die Doktrin besagt, dass es konzeptuell und normativ notwendig ist, zwischen dem zu unterscheiden, was ein Akteur beabsichtigt und was ein Akteur vorhersieht.
 - Annahme der Waffenbefürworter: Die primäre Intention von Radarsystemen liegt nicht darin Schaden anzurichten, kann aber durch einen Nebeneffekt zu Schaden führen. Bsp.: Man wollte das Land beschützen und konnte nicht wirklich vorhersehen, dass dabei Unmengen von Zivilisten getötet wurden. 
--	Die moralische Rechtfertigen von Support-Systems unter kantianischen oder nicht- konsequenzialistischen Gesichtspunkten lässt sich durch die sogenannte „Doctrine of Double Effect“ erreichen. 
 
  ### Leveringhaus‘ Gegenargument:
 

@@ -18,30 +18,27 @@
 - Im Design einer Waffe liegt die Intention Schaden oder Verletzungen anzurichten. 
   *Eine nicht verletzende Waffe ist ein Wiederspruch in sich.*
 
-### Problem der militärischen „Support-Systems“ und die Möglichkeit moralischer Rechtfertigung in Bezug auf deren Intention:
+### Problem der militärischen „Support-Systems“ und die Möglichkeit moralischer Rechtfertigung in Bezug auf die "Doctine of Double-Effect":
 
-- Die primäre Intention von Radarsystemen liegt nicht darin Schaden anzurichten, kann aber durch einen Nebeneffekt zu Schaden führen.
--	Moralische Rechtfertigen von Support-Systems unter kantianischen oder nicht- konsequenzialistischen Gesichtspunkten lässt sich durch die sogenannten „Doctrine of Double Effect“ erreichen. 
+- Die Doktrin besagt, dass es konzeptuell und normativ notwendig ist, zwischen dem zu unterscheiden, was ein Akteur beabsichtigt und was ein Akteur vorhersieht.
+- Annahme der Waffenbefürworter: Die primäre Intention von Radarsystemen liegt nicht darin Schaden anzurichten, kann aber durch einen Nebeneffekt zu Schaden führen. Bsp.: Man wollte das Land beschützen und konnte nicht wirklich vorhersehen, dass dabei Unmengen von Zivilisten getötet wurden. 
+-	Die moralische Rechtfertigen von Support-Systems unter kantianischen oder nicht- konsequenzialistischen Gesichtspunkten lässt sich durch die sogenannte „Doctrine of Double Effect“ erreichen. 
 
-### Doctrine of Double Effect:
+ ### Leveringhaus‘ Gegenargument:
 
--	Es ist konzeptuell und normativ notwendig zwischen dem was ein Akteur beabsichtigt und dem was ein Akteur vorhersieht zu unterscheiden. Kurz: Es ist immer verboten etwas Schlechtes zu beabsichtigen, jedoch mag es manchmal erlaubt sein einen schlechten Effekt hervorzubringen, wenn dieser nur vage vorhersehbar war. 
--	Auf diese Doktrin können sich Waffendesigner leicht berufen. Bsp.: Man wollte das Land beschützen und konnte nicht wirklich vorhersehen, dass dabei Unmengen von Zivilisten getötet wurden. 
-
-### Leveringhaus‘ Gegenargument:
-
--	Sein Gegenargument basiert auf der primären Komponente beim Design einer Waffe, nämlich, dass sie fähig sein muss Schaden anzurichten und das ist auch bei Supportsystemen der Fall. 
+Sein Gegenargument basiert auf der primären Komponente beim Design einer Waffe, nämlich, dass sie fähig sein muss Schaden anzurichten, und das ist auch bei Supportsystemen der Fall. 
 
 ## Verletzung und Schaden als zetrales Element
 
 ### Leveringhaus‘ Definition von Schädigung/Verletzung richtet sich nach Joel Feinberg.
 
--	Schaden oder Verletzung im unmoralischen Sinn wird über zwei Komponenten definiert: 
+Schaden oder Verletzung im unmoralischen Sinn wird über zwei Komponenten definiert: 
 
 1.	Meine schädigende/verletzende Handlung durch eine Waffe bedeutet einen Rückschlag der Interessen einer anderen Person
 2.	Meine schädigende/verletzende Handlung durch eine Waffe zieht eine Rechtsverletzung der geschädigten Person nach sich. (Bsp.: Recht auf Privatsphäre)
 
 ### Unterscheidung zwischen dreierlei Arten von Waffen:
+
 1.	Waffen die keine tödlichen oder damit in Beziehung stehenden Verletzungen anrichten: Bsp. Eine Computersoftware richtet zwar einen Schaden an, dieser ist aber nicht tödlich und führt auch zu einem späteren Zeitpunkt nicht zum Tod.
 2.	Waffen, die tödlichen oder damit in Beziehung stehende Verletzungen als Nebeneffekt anrichten. Bsp.: Truppe A blockiert das Radarsystem von Truppe B.
 3.	Waffen, deren primäre Funktion es ist, tödlichen oder einen damit in Beziehung stehenden Schaden anzurichten. Bsp.: Maschinengewehr, da dessen Funktion darin liegt einen tödlichen oder damit in Beziehung stehenden Schaden anzurichten.
@@ -50,14 +47,22 @@ Der 2. & 3. Punkt sind wesentlich für die Diskussion um autonome Waffen.
 
 ### Leverings Antwort auf Einwände:
 
-1.	Einwand: Geht der Schaden im Sinne Feinbergs vom Design oder von der Handlung eingebettet in einen gerechten oder ungerechten Krieg aus? 
--	Bezieht sich auf die schädigungsbasierte Definition einer Waffe, bezüglich der Forderung, dass es sich um einen Schaden an einem Menschen Handeln muss, beziehungsweise dessen Rechte verletzen muss.
+#### 1.	Einwand gliedert sich in zwei Komponenten: 
 
-Leveringhaus‘ Antwort: Wenn „nur“ militärische Artefakte, wie etwa Raketen oder Tanklaster beschädigt werden, kann man trotzdem von einer Rechtsverletzung von Menschen sprechen, weil diese als Steuerzahler die militärischen Artefakte finanzieren.
+1a) Geht der Schaden im Sinne Feinbergs wirklicg vom Design aus oder von der Handlung eingebettet in einen gerechten oder ungerechten Krieg? 
+1b) Bezüglich einer ungerechten Handlung ist es fraglich, ob das Zerstören einer beispielsweise Rakete eine Verletzung der Rechte von Personen darstellt. 
 
-2.	Einwand: Unterscheidung von offensiven und defensiven Waffen fordert eine Unterscheidung zwischen offensiver und defensiver Schädigung oder Verletzung. 
+#### Leveringhaus‘ Antwort: 
 
-Leveringhaus‘ Antwort: Für ethische Fragen ist mit dieser Unterscheidung nichts gewonnen. Auch defensive Waffen sind moralisch problematisch, weil sie a. die Fähigkeit der Gegner unterminieren sich verteidigen zu können und b. missbraucht werden können um einen ungerechten Krieg zu initiieren. 
+Wenn „nur“ militärische Artefakte, wie etwa Raketen oder Tanklaster beschädigt werden, kann man trotzdem von einer Rechtsverletzung von Menschen sprechen, weil diese als Steuerzahler die militärischen Artefakte finanzieren.
+
+#### 2.	Einwand: 
+
+Unterscheidung von offensiven und defensiven Waffen fordert eine Unterscheidung zwischen offensiver und defensiver Schädigung oder Verletzung. 
+
+#### Leveringhaus‘ Antwort: 
+
+Für ethische Fragen ist mit dieser Unterscheidung nichts gewonnen. Auch defensive Waffen sind moralisch problematisch, weil sie a. die Fähigkeit der Gegner unterminieren sich verteidigen zu können und b. missbraucht werden können um einen ungerechten Krieg zu initiieren. 
 
 
 ### Doctrine of Double Effect

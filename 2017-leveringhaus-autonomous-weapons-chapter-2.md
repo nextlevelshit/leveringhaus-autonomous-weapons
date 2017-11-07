@@ -96,7 +96,7 @@ Wenn „nur“ militärische Artefakte, wie etwa Raketen oder Tanklaster beschä
 
 (9) Maschinen und auch sog. autonome Waffen sind in jeder Weise vom Menschen fremdbestimmt und können daher nicht im philosophischen Sinne autonom handeln. Immer wohnen Absichten von anderen Handlungsträgen bei der Entscheidungsfindung einer Maschine bei. [6, 7, 8]
 
-**(K) Sog. autonome Waffen sind nicht autonom. Somit fallen sie unter die bestehenden rechtlichen sowie moralischen Regulierungen der bestehenden Waffensysteme. [3, 4, 5, 9]**
+**(K) Sog. autonome Waffen sind nicht autonom. Somit fallen sie unter die rechtlichen sowie moralischen Regulierungen der bestehenden Waffensysteme. [3, 4, 5, 9]**
 
 ### Unabhängigkeit von Maschinen
 

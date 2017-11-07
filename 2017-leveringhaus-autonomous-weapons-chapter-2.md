@@ -88,7 +88,7 @@ Wenn „nur“ militärische Artefakte, wie etwa Raketen oder Tanklaster beschä
 
 (5) Wenn sog. autonome Waffen nicht zu den Konzepten der bestehenden Waffensystemen passen und in ihrer Beispiellosigkeit über diese hinausgehen, dann gilt es neue Regulierungen und Debatten zur moralischen Zulässigkeit dieser neuen Waffensysteme zu erarbeiten.
 
-(6) Sog. autonome Waffen fallen unter den Aspekt der Beispiellosigkeit, wenn sie mittels dem sog. *Generating Model* selbstständig die moralischen Dimensionen zur Wahl eines zulässigen Ziels nach der Definition des *ius in bello* berechnen und die Vernichtung des Ziel eigenständig durchführen. (*Game Changing Argument*)
+(6) Sog. autonome Waffen fallen unter den Aspekt der Beispiellosigkeit, wenn sie mittels dem sog. *Generating Model* selbstständig die moralischen Dimensionen zur Wahl eines zulässigen Ziels nach der Definition des *ius in bello* berechnen und die Vernichtung des Ziels eigenständig durchführen. (*Game Changing Argument*)
 
 (7) Ein Akteure handelt im philosophischen Sinne dann und nur dann autonom, wenn er aus selbst gewählten Gründen handelt.
 

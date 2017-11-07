@@ -27,7 +27,7 @@
 
 ## Leveringhaus' Gegenargument:
 
-Sein Gegenargument basiert auf der primären Komponente beim Design einer Waffe, nämlich, dass sie fähig sein muss Schaden anzurichten, und das ist auch bei Supportsystemen der Fall. 
+Sein Gegenargument basiert auf der richtigen Interpretation von der Doktrin und der damit im Zusammenhang stehenden primären Komponente beim Design einer Waffe, nämlich, dass sie fähig sein muss Schaden anzurichten. 
 
 # Verletzung und Schaden als zetrales Element
 
@@ -57,11 +57,11 @@ Bezüglich der Verwendung von Waffen ist es fraglich, ob das Zerstören einer be
 
 **Leveringhaus‘ Antwort**
 
-Wenn „nur“ militärische Artefakte, wie etwa Raketen oder Tanklaster beschädigt werden, kann man trotzdem von einem Rückschlag der Interessen von Menschen sprechen, weil diese als Steuerzahler die militärischen Artefakte finanzieren.
+Wenn „nur“ militärische Artefakte, wie etwa Raketen oder Tanklaster beschädigt werden, kann man trotzdem von einem Rückschlag der Interessen von Menschen sprechen, weil diese als Steuerzahler die militärischen Artefakte finanzieren. Der Schaden an den Rechten einer Person bleibt fraglich.
 
 ### 2. Einwand:
 
-Unterscheidung von offensiven und defensiven Waffen fordert eine Unterscheidung zwischen offensiver und defensiver Schädigung oder Verletzung in Bezug auf moralische Rechtfertigung.
+Unterscheidung von offensiven und defensiven Waffen fordert eine Unterscheidung zwischen offensiver und defensiver Schädigung oder Verletzung in Bezug auf die moralische Rechtfertigung.
 
 **Leveringhaus' Antwort**
 

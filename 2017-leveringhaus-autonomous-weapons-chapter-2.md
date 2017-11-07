@@ -51,11 +51,9 @@ Schaden oder Verletzung im unmoralischen Sinn wird über zwei Komponenten defini
 
 ## Leveringhaus' Antwort auf Einwände:
 
-### 1.	Einwand gliedert sich in zwei Komponenten: 
+### 1.	Einwand: 
 
-(1a) Geht der Schaden im Sinne Feinbergs wirklich nur vom Design aus oder von der Handlung eingebettet in einen gerechten oder ungerechten Krieg?
-
-(1b) Bezüglich einer ungerechten Handlung ist es fraglich, ob das Zerstören einer beispielsweise Rakete eine Verletzung der Rechte von Personen darstellt. 
+Bezüglich einer ungerechten Handlung ist es fraglich, ob das Zerstören einer beispielsweise Rakete eine Verletzung der Rechte von Personen darstellt. 
 
 **Leveringhaus‘ Antwort**
 

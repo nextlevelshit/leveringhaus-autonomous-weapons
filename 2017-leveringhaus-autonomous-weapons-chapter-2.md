@@ -33,34 +33,31 @@ Sein Gegenargument basiert auf der primären Komponente beim Design einer Waffe,
 
 Schaden oder Verletzung im unmoralischen Sinn wird über zwei Komponenten definiert: 
 
-1.	Meine schädigende/verletzende Handlung durch eine Waffe bedeutet einen Rückschlag der Interessen einer anderen Person
+1.	Meine schädigende/verletzende Handlung durch eine Waffe bedeutet einen Rückschlag der Interessen einer anderen Person.
 2.	Meine schädigende/verletzende Handlung durch eine Waffe zieht eine Rechtsverletzung der geschädigten Person nach sich. (Bsp.: Recht auf Privatsphäre)
 
 ### Unterscheidung zwischen dreierlei Arten von Waffen:
 
 1.	Waffen die keine tödlichen oder damit in Beziehung stehenden Verletzungen anrichten: Bsp. Eine Computersoftware richtet zwar einen Schaden an, dieser ist aber nicht tödlich und führt auch zu einem späteren Zeitpunkt nicht zum Tod.
 2.	Waffen, die tödlichen oder damit in Beziehung stehende Verletzungen als Nebeneffekt anrichten. Bsp.: Truppe A blockiert das Radarsystem von Truppe B.
-3.	Waffen, deren primäre Funktion es ist, tödlichen oder einen damit in Beziehung stehenden Schaden anzurichten. Bsp.: Maschinengewehr, da dessen Funktion darin liegt einen tödlichen oder damit in Beziehung stehenden Schaden anzurichten.
+3.	Waffen, deren primäre Funktion es ist, tödlichen oder einen damit in Beziehung stehenden Schaden anzurichten. Bsp.: Maschinengewehr.
 
 Der 2. & 3. Punkt sind wesentlich für die Diskussion um autonome Waffen.
 
 ### Leverings Antwort auf Einwände:
 
 #### 1.	Einwand gliedert sich in zwei Komponenten: 
+1a) Geht der Schaden im Sinne Feinbergs wirklich nur vom Design aus oder von der Handlung eingebettet in einen gerechten oder ungerechten Krieg?
 
-1a) Geht der Schaden im Sinne Feinbergs wirklicg vom Design aus oder von der Handlung eingebettet in einen gerechten oder ungerechten Krieg? 
 1b) Bezüglich einer ungerechten Handlung ist es fraglich, ob das Zerstören einer beispielsweise Rakete eine Verletzung der Rechte von Personen darstellt. 
 
 #### Leveringhaus‘ Antwort: 
-
 Wenn „nur“ militärische Artefakte, wie etwa Raketen oder Tanklaster beschädigt werden, kann man trotzdem von einer Rechtsverletzung von Menschen sprechen, weil diese als Steuerzahler die militärischen Artefakte finanzieren.
 
 #### 2.	Einwand: 
-
-Unterscheidung von offensiven und defensiven Waffen fordert eine Unterscheidung zwischen offensiver und defensiver Schädigung oder Verletzung. 
+Unterscheidung von offensiven und defensiven Waffen fordert eine Unterscheidung zwischen offensiver und defensiver Schädigung, beziehungsweise Verletzung. 
 
 #### Leveringhaus‘ Antwort: 
-
 Für ethische Fragen ist mit dieser Unterscheidung nichts gewonnen. Auch defensive Waffen sind moralisch problematisch, weil sie a. die Fähigkeit der Gegner unterminieren sich verteidigen zu können und b. missbraucht werden können um einen ungerechten Krieg zu initiieren. 
 
 

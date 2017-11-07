@@ -89,13 +89,17 @@ Für ethische Fragen ist mit dieser Unterscheidung nichts gewonnen. Auch defensi
 
 ### Argumente
 
+#### Autonomie von Maschinen
+
 (1) Wenn eine Maschine das Design bzw. den Zweck hat Leid und Schaden zuzufügen, handelt es sich um eine Waffe.
 (2) Die Entwicklung von Waffen steht unter bestimmten rechtlichen sowie moralischen Regulierungen.
 (3) Es wird angenommen, dass alle vorherschenden Waffensysteme in Benutzung unter einer moralischen und rechtlichen Regulierung stehen.
 (4) Wenn autonome Waffen nicht zu den Konzepten der bestehenden Waffensystemen passen und in ihrer Beispiellosigkeit über diese hinausgehen, dann gilt es neue Regulierungen und Debatten zur moralischen Zulässigkeit dieser neuen Waffensysteme zu erarbeiten.
 (5) Ein Agent handelt im philosophischen Sinne dann und nur dann autonom, wenn er aus eigens gewählten Gründen handelt.
-(6) Maschinen werden programmiert, gesteuert und oder von einem externen menschlichen Agente überwacht.
+(6) Maschinen werden programmiert, gesteuert und oder von einem externen menschlichen Agenten überwacht.
 (5) + (6) Maschinen sind in jeder Weise vom Menschen fremdbestimmt und können daher nicht qua philosophischer Autonomie handeln. Immer wohnen Absichten von anderen Handlungsträgen bei der Entscheidungsfindung einer Maschine bei.
+(7) Maschinen und auch sog. autonome Waffen sind nicht autonom.
+
 
 1. Waffen haben ein Design
 2. Ihr Zweck ist Leid und Schaden

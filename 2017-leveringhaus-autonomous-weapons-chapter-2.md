@@ -51,23 +51,14 @@ Schaden oder Verletzung im unmoralischen Sinn wird über zwei Komponenten defini
 
 ## Leveringhaus' Antwort auf Einwände:
 
-### 1.	Einwand gliedert sich in zwei Komponenten: 
+### Einwand: 
 
-(1a) Geht der Schaden im Sinne Feinbergs wirklich nur vom Design aus oder von der Handlung eingebettet in einen gerechten oder ungerechten Krieg?
-
-(1b) Bezüglich einer ungerechten Handlung ist es fraglich, ob das Zerstören einer beispielsweise Rakete eine Verletzung der Rechte von Personen darstellt. 
+Bezüglich einer ungerechten Handlung ist es fraglich, ob das Zerstören einer beispielsweise Rakete eine Verletzung der Rechte von Personen darstellt. 
 
 **Leveringhaus‘ Antwort**
 
 Wenn „nur“ militärische Artefakte, wie etwa Raketen oder Tanklaster beschädigt werden, kann man trotzdem von einer Rechtsverletzung von Menschen sprechen, weil diese als Steuerzahler die militärischen Artefakte finanzieren.
 
-### 2.	Einwand: 
-
-Unterscheidung von offensiven und defensiven Waffen fordert eine Unterscheidung zwischen offensiver und defensiver Schädigung, beziehungsweise Verletzung. 
-
-**Leveringhaus' Antwort:**
-
-Für ethische Fragen ist mit dieser Unterscheidung nichts gewonnen. Auch defensive Waffen sind moralisch problematisch, weil sie a. die Fähigkeit der Gegner unterminieren sich verteidigen zu können und b. missbraucht werden können um einen ungerechten Krieg zu initiieren. 
 
 # Autonomie einer Maschine und Waffentechnolgie
 

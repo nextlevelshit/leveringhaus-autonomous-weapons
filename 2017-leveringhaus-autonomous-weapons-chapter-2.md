@@ -10,28 +10,56 @@
   lang: de
 ...
 
-# Exzerpt
-
-## Was ist eine Waffe?
-
-Eine Waffe beinhaltet zwei Konzepte:
-
-1. Konzept des Designs (*Intention, Zweck, Plan*)
-2. Konzept des Schadens (*inflcting harm*)
-
-## Was macht eine autonome Waffe aus?
-
-Eine autonome Waffe beinhaltet beide Konzepte einer Waffe (s.o.) und zusätzlich den Charakter einer *autonomen Maschine*. Eine autonome Maschine wiederum ...
-
 ## Wichtigkeit des Designs
 
-### Abgrenzung zu anderen Artefakten
+### Was ist eine Waffe?
 
-- Schere
-- Nicht alle militärischen Artefakte sind per se Waffen
-- Unterstützungssysteme (*support systems*) z.B. Radare als Abgrenzung zu Waffensystemen (???)
-- Moralische Dimension bei der Entwicklung von Unterstützungsystemen
-  - Gutes tun, Böses ablehnen
+- Der Unterschied zwischen Waffen und anderen Artefakten liegt in Ihrem jeweiligen Design und dessen darin liegende Intention. 
+- Im Design einer Waffe liegt die Intention Schaden oder Verletzungen anzurichten. 
+  *Eine nicht verletzende Waffe ist ein Wiederspruch in sich.*
+
+### Problem der militärischen „Support-Systems“ und die Möglichkeit moralischer Rechtfertigung in Bezug auf die "Doctrine of Double-Effect":
+
+- Die Doktrin besagt, dass es konzeptuell und normativ notwendig ist, zwischen dem zu unterscheiden, was ein Akteur beabsichtigt und was ein Akteur vorhersieht.
+- Annahme der Waffenbefürworter: Die primäre Intention von Radarsystemen liegt nicht darin Schaden anzurichten, kann aber durch einen Nebeneffekt zu Schaden führen. Bsp.: Man wollte das Land beschützen und konnte nicht wirklich vorhersehen, dass dabei Unmengen von Zivilisten getötet wurden. 
+
+ ### Leveringhaus‘ Gegenargument:
+
+Sein Gegenargument basiert auf der primären Komponente beim Design einer Waffe, nämlich, dass sie fähig sein muss Schaden anzurichten, und das ist auch bei Supportsystemen der Fall. 
+
+## Verletzung und Schaden als zetrales Element
+
+### Leveringhaus‘ Definition von Schädigung/Verletzung richtet sich nach Joel Feinberg:
+
+Schaden oder Verletzung im unmoralischen Sinn wird über zwei Komponenten definiert: 
+
+1.	Meine schädigende/verletzende Handlung durch eine Waffe bedeutet einen Rückschlag der Interessen einer anderen Person.
+2.	Meine schädigende/verletzende Handlung durch eine Waffe zieht eine Rechtsverletzung der geschädigten Person nach sich. (Bsp.: Recht auf Privatsphäre)
+
+### Unterscheidung zwischen dreierlei Arten von Waffen:
+
+1.	Waffen die keine tödlichen oder damit in Beziehung stehenden Verletzungen anrichten: Bsp. Eine Computersoftware richtet zwar einen Schaden an, dieser ist aber nicht tödlich und führt auch zu einem späteren Zeitpunkt nicht zum Tod.
+2.	Waffen, die tödlichen oder damit in Beziehung stehende Verletzungen als Nebeneffekt anrichten. Bsp.: Truppe A blockiert das Radarsystem von Truppe B.
+3.	Waffen, deren primäre Funktion es ist, tödlichen oder einen damit in Beziehung stehenden Schaden anzurichten. Bsp.: Maschinengewehr.
+
+Der 2. & 3. Punkt sind wesentlich für die Diskussion um autonome Waffen.
+
+### Leverings Antwort auf Einwände:
+
+#### 1.	Einwand gliedert sich in zwei Komponenten: 
+1a) Geht der Schaden im Sinne Feinbergs wirklich nur vom Design aus oder von der Handlung eingebettet in einen gerechten oder ungerechten Krieg?
+
+1b) Bezüglich einer ungerechten Handlung ist es fraglich, ob das Zerstören einer beispielsweise Rakete eine Verletzung der Rechte von Personen darstellt. 
+
+#### Leveringhaus‘ Antwort: 
+Wenn „nur“ militärische Artefakte, wie etwa Raketen oder Tanklaster beschädigt werden, kann man trotzdem von einer Rechtsverletzung von Menschen sprechen, weil diese als Steuerzahler die militärischen Artefakte finanzieren.
+
+#### 2.	Einwand: 
+Unterscheidung von offensiven und defensiven Waffen fordert eine Unterscheidung zwischen offensiver und defensiver Schädigung, beziehungsweise Verletzung. 
+
+#### Leveringhaus‘ Antwort: 
+Für ethische Fragen ist mit dieser Unterscheidung nichts gewonnen. Auch defensive Waffen sind moralisch problematisch, weil sie a. die Fähigkeit der Gegner unterminieren sich verteidigen zu können und b. missbraucht werden können um einen ungerechten Krieg zu initiieren. 
+
 
 ### Doctrine of Double Effect
 

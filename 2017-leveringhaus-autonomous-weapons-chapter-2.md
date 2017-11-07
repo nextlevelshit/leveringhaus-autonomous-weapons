@@ -43,3 +43,29 @@ Eine autonome Waffe beinhaltet beide Konzepte einer Waffe (s.o.) und zusätzlich
 
  - Mensch: "In a nutshell, the concept of autonomy denotes that an agent acts for reasons the agent has given him/herself." [S. 47]
  - Maschine: 
+
+## Autonomie einer Maschine und Waffentechnolgie
+
+### Inhaltlicher Aufbau
+
+- Was ist Autonomie? (ab S. 46)
+- Was ist Unabhängigkeit (ab S. 48)
+- Drohnen und unbewohnte Maschinen bzw. Waffen (ab S. 49 oben)
+- "In/on/out-of - the - Loop" (ab S. 49 unten)
+- Was sind Kognitive Systeme und Künstliche Agenten? (ab S. 50)
+- Was unterscheidet autonome Waffen von Unterstützungssystemen? (ab S. 52)
+- Zielerfassung (ab S. 53)
+  - Das "Generating Model" (ab S. 53 unten)
+  - Das "Execution Model" (ab S. 56)
+- Zusammenfassung (ab S. 57) 
+
+### Argumente
+
+1. Waffen haben ein Design
+2. Ihr Zweck ist Leid und Schaden
+
+*Sind autonome Waffen ein beispielloses und einzigartiges Phänomen in der Waffentechnologie?*
+
+- Wenn ja, dann gilt es die bestehenden Regulierungen und den moralischen Rahmen neu zu setzen.
+- Wenn nein, dann reichen die bisherigen Regulierungen aus. 
+

@@ -53,11 +53,11 @@ Schaden oder Verletzung im unmoralischen Sinn wird über zwei Komponenten defini
 
 ### 1. Einwand: 
 
-Bezüglich einer ungerechten Handlung ist es fraglich, ob das Zerstören einer beispielsweise Rakete eine Verletzung der Rechte von Personen darstellt. 
+Bezüglich der Verwendung von Waffen ist es fraglich, ob das Zerstören einer beispielsweise Rakete einen Rückschlag der Interessen einer Person darstellt oder gar die Verletzung der Rechte von Personen. 
 
 **Leveringhaus‘ Antwort**
 
-Wenn „nur“ militärische Artefakte, wie etwa Raketen oder Tanklaster beschädigt werden, kann man trotzdem von einer Rechtsverletzung von Menschen sprechen, weil diese als Steuerzahler die militärischen Artefakte finanzieren.
+Wenn „nur“ militärische Artefakte, wie etwa Raketen oder Tanklaster beschädigt werden, kann man trotzdem von einem Rückschlag der Interessen von Menschen sprechen, weil diese als Steuerzahler die militärischen Artefakte finanzieren.
 
 ### 2. Einwand:
 

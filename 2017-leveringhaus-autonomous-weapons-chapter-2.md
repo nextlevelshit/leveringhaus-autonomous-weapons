@@ -32,9 +32,9 @@
 
 -	Sein Gegenargument basiert auf der primären Komponente beim Design einer Waffe, nämlich, dass sie fähig sein muss Schaden anzurichten und das ist auch bei Supportsystemen der Fall. 
 
-### Verletzung und Schaden als zetrales Element
+## Verletzung und Schaden als zetrales Element
 
-#### Leveringhaus‘ Definition von Schädigung/Verletzung richtet sich nach Joel Feinberg.
+### Leveringhaus‘ Definition von Schädigung/Verletzung richtet sich nach Joel Feinberg.
 
 -	Schaden oder Verletzung im unmoralischen Sinn wird über zwei Komponenten definiert: 
 

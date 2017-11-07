@@ -75,8 +75,7 @@ Für ethische Fragen ist mit dieser Unterscheidung nichts gewonnen. Auch defensi
 
 - Was ist Autonomie (ab S. 46)
 - Was ist Unabhängigkeit (ab S. 48)
-- Drohnen und unbewohnte Maschinen bzw. Waffen (ab S. 49 oben)
-- In/on/out-of -the-loop (ab S. 49 unten)
+- Drohnen und unbewohnte Maschinen bzw. Waffen (ab S. 49)
 - Was sind *Kognitive Systeme* und *Künstliche Akteure*? (ab S. 50)
 - Was unterscheidet autonome Waffen von Unterstützungssystemen? (ab S. 52)
 - Zielerfassung (ab S. 53)

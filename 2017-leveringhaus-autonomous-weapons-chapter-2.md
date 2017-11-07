@@ -87,11 +87,11 @@ Für ethische Fragen ist mit dieser Unterscheidung nichts gewonnen. Auch defensi
 
 ### Autonomie von Maschinen
 
-(1) Wenn eine Maschine das Design bzw. den Zweck hat Leid und Schaden zuzufügen, handelt es sich um eine Waffe.
+(1) Wenn eine Maschine das Design bzw. den Zweck hat Verletzungen und Schaden zuzufügen, handelt es sich um eine Waffe.
 
 (2) Die Entwicklung von Waffen steht unter bestimmten rechtlichen sowie moralischen Regulierungen.
 
-(3) Sog. autonome Waffen werden zwecks der Verursachung von Leid und Schaden entwickelt und sollten somit unter der Berücksichtigung rechtlicher sowie moralischer Regulierungen entwickelt werden. [1, 2]
+(3) Sog. autonome Waffen werden zwecks der Verursachung von Verletzungen und Schaden entwickelt und sollten somit unter der Berücksichtigung rechtlicher sowie moralischer Regulierungen entwickelt werden. [1, 2]
 
 (4) Es wird angenommen, dass alle vorherschenden Waffensysteme in Benutzung unter einer moralischen und rechtlichen Regulierung stehen.
 

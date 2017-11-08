@@ -71,11 +71,10 @@ Für ethische Fragen ist mit dieser Unterscheidung nichts gewonnen. Auch defensi
 
 ## Inhaltlicher Aufbau
 
-- Was ist Autonomie (ab S. 46)
-- Was ist Unabhängigkeit (ab S. 48)
-- Drohnen und unbewohnte Maschinen bzw. Waffen (ab S. 49)
-- Was sind *Kognitive Systeme* und *Künstliche Akteure*? (ab S. 50)
-- Was unterscheidet autonome Waffen von Unterstützungssystemen? (ab S. 52)
+- Was ist Autonomie? (ab S. 46)
+- Was ist Unabhängigkeit? (ab S. 48)
+- Unterscheidung zwischen Drohnen und *unmanned weapons*? (ab S. 49)
+- Was sind *kognitive Systeme* und *künstliche Akteure*? (ab S. 50)
 - Zielerfassung (ab S. 53)
   - Das *Generating Model* (ab S. 53 unten)
   - Das *Execution Model* (ab S. 56)
